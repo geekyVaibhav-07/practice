@@ -1,0 +1,4 @@
+export const AUTHENTICATED = "AUTHENTICATED";
+export const USERDATA = "USERDATA";
+export const NOT_AUTHENTICATED = "NOT_AUTHENTICATED";
+export const END_SESSION = "END_SESSION";
